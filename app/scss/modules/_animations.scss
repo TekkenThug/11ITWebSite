@@ -1,0 +1,11 @@
+@keyframes slideArrow {
+  0% {
+    opacity: 1;
+    bottom: 30px;
+  }
+
+  100% {
+    opacity: 0;
+    bottom: 10px;
+  }
+} 
