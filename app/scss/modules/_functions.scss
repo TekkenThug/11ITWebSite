@@ -1,3 +1,9 @@
 @mixin trans($time) {
   transition: all $time ease;
 }
+
+@mixin onCenterWindow() {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
